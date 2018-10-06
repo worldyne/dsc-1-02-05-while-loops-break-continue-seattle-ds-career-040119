@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Earlier in the course, we learned hot to iterate over collections. But is there is a way to have a loop **without** a collection to iterate over? Well, another way to create a loop is with **while** loops. We can use a while loop to perform the same action over and over until a condition is no longer `True`. We don't even need an *iterable* or collection to iterate over. We can just define a condition and perform the given code block until the condition is no longer `True`. Pretty cool, right?   
+Earlier in the course, we learned how to iterate over collections. But is there is a way to have a loop **without** a collection to iterate over? Well, another way to create a loop is with **while** loops. We can use a while loop to perform the same action over and over until a condition is no longer `True`. We don't even need an *iterable* or collection to iterate over. We can just define a condition and perform the given code block until the condition is no longer `True`. Pretty cool, right?   
 
 Or what if we would like to have a loop that stops at a certain point? Let's say we only want to collect half of the elements of a list, or stop a list once we find the first matching element? To perform operations like these we'll need `break` and `continue` statements. These statements **control the flow** of our loops and will help us make our loops even more effective.
 
